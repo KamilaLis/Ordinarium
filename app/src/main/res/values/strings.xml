@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ordinarium</string>
+    <string name="title_mic">Odpowiedź</string>
+    <string name="title_read">Mszał</string>
+    <string name="title_language">Język</string>
+    <string name="radio_en">Angielski</string>
+    <string name="radio_es">Hiszpański</string>
+    <string name="radio_it">Włoski</string>
+    <string name="btn_save">Zapisz</string>
+</resources>

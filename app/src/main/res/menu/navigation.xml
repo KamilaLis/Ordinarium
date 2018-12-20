@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_language"
+        android:icon="@drawable/baseline_language_black_18dp"
+        android:title="@string/title_language" />
+
+    <item
+        android:id="@+id/navigation_speak"
+        android:icon="@drawable/baseline_mic_white_18dp"
+        android:title="@string/title_mic" />
+
+    <item
+        android:id="@+id/navigation_read"
+        android:icon="@android:drawable/ic_input_get"
+        android:title="@string/title_read" />
+
+</menu>
